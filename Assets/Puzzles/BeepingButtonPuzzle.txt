@@ -1,0 +1,1 @@
+Next to the door you have a light that beeps red. On a random moment (1-10 seconds) the light will beep green. If you press the button at the correct time, the compartment will open and you will receive a key (black). The black key opens the giant bookcase on the West wall.

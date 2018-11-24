@@ -1,0 +1,13 @@
+Locked box with a button lock (10 numbers on the lock).
+
+You have four clocks on the wall.
+Each shows the time for a different time zone: New York, Tokyo, London, Moskva. Three of them are still.
+
+The still clocks times are:
+- 7:23
+- 11:05
+- 2:14
+
+Theese times point to three specific dates. When the player checks the calendar, you find three numbers (2, 5, 9) that are the combination to upen the button lock on the locked box.
+
+Once you oppen the box, you find a rune.

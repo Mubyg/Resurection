@@ -1,0 +1,12 @@
+Basic idea: the correct color, brightness and saturation values show your next clue.
+
+You have a light source on the celling, that point to the North wall. Somewhere on the wall you have poster with the letters H, S and B on it.
+H -> on the south side of the room you have a simple piano key instrument, that has the musical lestvico on it (lol). The idea behind this is, that you have to pres the key B (in the musical alphabet, the letter B is also the letter H).
+S -> once you have the correct light color, you need to find the correct saturation value on the S controler (like finding the correct radion station kind of search device thing). The righst saturation value gives you all the letters in the next puzzle. The wrong one has some letters hidden.
+B -> You have a brigthess button somewhere in the room. The right brightness results in a crisp text, while the other makes the text blurry.
+
+Once you have all theese values figured out, you have to solve the simple puzzle written on the wall.
+
+I have three letters. Cut one off and I become stronger. Cut two off and I become ten. What am I?
+
+The answer is FOX -> in the bookcase you have to find The fox and the hound book. In it you have your nordic rune.
